@@ -287,7 +287,7 @@ Puedes compartir y adaptar este material siempre que:
 - **No Comercial** — No lo uses con fines comerciales
 - **Compartir Igual** — Las adaptaciones deben usar la misma licencia
 
-Basado en la documentación pública de [Anthropic](https://docs.anthropic.com). Consulta el fichero [LICENSE](../LICENSE) para el texto legal completo.
+Basado en la documentación pública de [Anthropic](https://docs.anthropic.com). Consulta el fichero [LICENSE](LICENSE) para el texto legal completo.
 
 ---
 
