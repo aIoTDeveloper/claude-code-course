@@ -270,9 +270,10 @@ claude_tutorial/
 
 | Versión | Fecha | Notas |
 |---------|-------|-------|
-| 1.0 | Febrero 2026 | Versión inicial basada en Claude Code 2.x, Opus 4.6 |
-| 2.0 | Marzo 2026 | Añadidos M13 (Multimodalidad), M14 (Agent SDK). Actualizados M04-M10 con novedades. Proyecto final movido a M15 |
-| 2.1 | Marzo 2026 | Añadido M15 (Plugins y Marketplaces). Proyecto final movido a M16 |
+| 0.1 | Febrero 2026 | Versión inicial basada en Claude Code 2.x, Opus 4.6 |
+| 0.2 | Marzo 2026 | Añadidos M13 (Multimodalidad), M14 (Agent SDK). Actualizados M04-M10 con novedades. Proyecto final movido a M15 |
+| 0.3 | Marzo 2026 | Añadido M15 (Plugins y Marketplaces). Proyecto final movido a M16 |
+| 1.0 | Marzo 2026 | Revisión, corrección de errores y añadida licencia. |
 
 ---
 
